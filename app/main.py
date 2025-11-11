@@ -4,7 +4,7 @@ Streamlit Web Interface for PSO Portfolio Optimizer
 This is the main entry point for the interactive web application.
 
 Author: EU97
-Date: 2024
+Date: 2025
 """
 
 import streamlit as st
