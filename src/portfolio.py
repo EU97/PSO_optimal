@@ -6,7 +6,7 @@ The goal is to find optimal asset allocation that maximizes returns while
 minimizing risk (Sharpe ratio optimization).
 
 Author: EU97
-Date: 2024
+Date: 2025
 """
 
 import numpy as np

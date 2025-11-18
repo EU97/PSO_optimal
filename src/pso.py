@@ -5,7 +5,7 @@ This module provides a flexible and efficient implementation of the PSO algorith
 for continuous optimization problems.
 
 Author: EU97
-Date: 2024
+Date: 2025
 """
 
 import numpy as np

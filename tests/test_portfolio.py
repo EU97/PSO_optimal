@@ -2,7 +2,7 @@
 Unit tests for portfolio optimization
 
 Author: EU97
-Date: 2024
+Date: 2025
 """
 
 import sys
